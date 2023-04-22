@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">阿明影视</string>
     <string name="app_home">Home</string>
-    <string name="app_source"></string>
+    <string name="app_source">http://am.adianshi.com:9805/.aming/TVBOX/tvbox.json</string>
 
     // Home Page //
     <string name="hm_ok">Load Complete</string>
