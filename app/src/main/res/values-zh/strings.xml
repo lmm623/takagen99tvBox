@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">阿明影视</string>
+    <string name="app_name">TVBOX内置dr_py</string>
     <string name="app_home">首页</string>
-    <string name="app_source">http://am.adianshi.com:9805/.aming/TVBOX/tvbox.json</string>
+    <string name="app_source">http://am.adianshi.com:9805/.aming/dr_py/JS/js.json</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
